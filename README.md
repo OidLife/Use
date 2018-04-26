@@ -10,8 +10,7 @@ If a miner is not blocking at expected intervals, they are not "benefiting" the 
 Their funds will be withheld, and the shares/block reward will be distributed to every other miner.
 
 
-Thank you,
-
+Thank you,  
 [OID Team](https://oid.life/)
 
 
